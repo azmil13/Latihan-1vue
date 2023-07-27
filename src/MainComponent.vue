@@ -49,60 +49,44 @@
           <br>
           <br>
           <br>
-          <center>
-            <h1 class="layanankami">Produk Semen</h1>
-          </center>
-          <div class="grid grid-cols-2 gap-2">
+          <h5 class="mb-2 text-3xl font-bold text-center tracking-tight text-gray-900 dark:text-gray">DAFTAR PRODUK KAMI</h5>
+          <br>
+          <br>
+<div class="grid grid-cols-2 gap-2">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="./assets/logosemen.jpg" height="250" width="300">
-        </div>
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://scgcbm.id/wp-content/uploads/2021/12/Packshot-Semen-SCG_Front-40KG-edit.png" height="250" width="300">
-        </div>
-        <div>
-            <center><img class="h-auto max-w-full rounded-lg" src="https://semenmerahputih.com/images/pcc.png" height="250" width="300">
-              </center>
-        </div>
-    </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-          <center>
-            <h1 class="layanankami">Tukang Bangunan</h1>
-          </center>
-    <div class="grid grid-cols-2 gap-2">
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://png.pngtree.com/png-clipart/20221216/original/pngtree-engineer-architect-and-builder-mason-at-construction-site-png-image_8750971.png" height="250" width="300">
-        </div>
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://siplahtelkom.com/public/products/164909/3454839/5443bc95-3c43-4.1649759080.jpg" height="250" width="300">
-        </div>
-        <div> <center> 
-            <img class="h-auto max-w-full rounded-lg" src="https://univerbuild.com/wp-content/uploads/2020/06/Jasa-Tukang-Bangunan-Jogja.png" height="250" width="300">
-            </center>
-        </div>
-    </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <center>
-            <h1 class="layanankami">Peralatan bangunan</h1>
-          </center>
-    <div class="grid grid-cols-2 gap-2">
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://i0.wp.com/www.builder.id/wp-content/uploads/2019/10/peralatan-bangunan-penting.jpg?fit=600%2C350&ssl=1" height="250" width="300">
-        </div>
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://media.istockphoto.com/id/135902580/id/foto/lingkaran-alat-bangunan-di-belakang-pisau-gergaji-dan-papan-kayu.jpg?s=1024x1024&w=is&k=20&c=I06K6c9PVCG9C_6Daca9bLwxY0zt3sx-zhGkSyaqI18=" height="250" width="300">
-        </div>
-        <div><center> 
-            <img class="h-auto max-w-full rounded-lg" src="https://banamitra.com/wp-content/uploads/2020/10/alat-tukang-bangunan.jpg" height="250" width="300">
-            </center>
-        </div>
+          <the-card href="#" variant="vertical" img-src="https://sementigaroda.com/data-str/images/posts/2020/09/23/609/merk-semen-terbaik.jpg" img-alt="Desk">
+ <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Semen Tiga Roda</h5>
+ <p class="font-normal text-gray-700 dark:text-gray-400">
+ </p>
+          </the-card>
+          </div>
+          <div>
+          <the-card href="#" variant="vertical" img-src="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1642848023/a4wd7otnfyfxomou7cxl.jpg
+" img-alt="Desk">
+<br>
+ <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Tukang Bangunan</h5>
+ <p class="font-normal text-gray-700 dark:text-gray-400">
+ </p>
+          </the-card>
+          </div>
+          <div>
+            <the-card href="#" variant="vertical" img-src="https://berita.99.co/wp-content/uploads/2019/10/tool-box-lengkap.jpg
+" img-alt="Desk">
+ <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Peralatan Bangunan</h5>
+ <p class="font-normal text-gray-700 dark:text-gray-400">
+ </p>
+          </the-card>
+          </div>
+       <div>
+        <the-card href="#" variant="vertical" img-src="https://i0.wp.com/www.builder.id/wp-content/uploads/2019/10/peralatan-bangunan-penting.jpg?fit=600%2C350&ssl=1
+" img-alt="Desk">
+<br>
+<br>
+ <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Peralatan Bangunan</h5>
+ <p class="font-normal text-gray-700 dark:text-gray-400">
+ </p>
+          </the-card>
+       </div>
     </div>
 
       </section>

@@ -5,7 +5,8 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
     <Navbar>
       <template #logo>
         <img src="./assets/logosemen.jpg" height="30" width="40">
-        <h1 class="me-auto">Semen Negeri</h1>
+        <h1 class="me-auto
+        ">Semen Negeri</h1>
       </template>
       <template #default="{isShowMenu}">
         <NavbarCollapse :isShowMenu="isShowMenu">
